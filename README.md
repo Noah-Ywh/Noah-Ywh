@@ -1,16 +1,15 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=Noah-Ywh&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
+  <img alt="Shows Noah-Ywh's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=Noah-Ywh&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
+</picture>
 
-<!--
-**Noah-Ywh/Noah-Ywh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="logo" src="./public/logo.jpg" width="100px" />
 
-Here are some ideas to get you started:
+Noah.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
