@@ -1,3 +1,1 @@
-<img alt="logo" src="./public/logo.jpg" width="100px" />
-
-Noah.
+> ⚠️ 让 AI 去上班可以吗
